@@ -41,3 +41,5 @@ while run:
 
 
 pygame.quit()
+
+# Alapvető mozdulatok
